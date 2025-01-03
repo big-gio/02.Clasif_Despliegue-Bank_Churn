@@ -18,8 +18,8 @@ El archivo "Churn_Modelling.csv" se descargó de la plataforma Kaggle.
 
 Al analizar el reporte final de métricas, se encontró que el mejor modelo para clasificar a los cientes, sería el de "arbol de decisión". Hubo problemas con el modelo de SVM, que provocó errores, por lo que tuvo que dejarse fuera, antes de un análisis más exhaustivo:
 
-![Portada_Churn_Clasif](https://raw.githubusercontent.com/Giovanni-Chipuli/Churn_Clasif_Despliegue/main/Archivos/Portada_Churn_Clasif.JPG)
+![Portada_Churn_Clasif](https://github.com/big-gio/02.Clasif_Despliegue-Bank_Churn/blob/main/Archivos/Portada_Churn_Clasif.JPG)
 
-Con dicho modelo se procede a predecir la fuga de los cleintes, según nueva data:
+Con dicho modelo se procede a predecir la fuga de los clientes, según nueva data:
 
-![Portada_Churn_Clasif2](https://raw.githubusercontent.com/Giovanni-Chipuli/Churn_Clasif_Despliegue/main/Archivos/Portada_Churn_Clasif2.JPG)
+![Portada_Churn_Clasif2](https://github.com/big-gio/02.Clasif_Despliegue-Bank_Churn/blob/main/Archivos/Portada_Churn_Clasif2.JPG)
