@@ -8,7 +8,7 @@ El proyecto está dividido en tres cuadernos de Google Colab:
 
 * [Churn 1_Clasificaciones.](https://github.com/big-gio/02.Clasif_Despliegue-Bank_Churn/blob/main/Churn_1_Clasificaciones.ipynb) En este cuaderno se tratan los datos y se entrenan diferentes algoritmos de aprendizaje supervisado, modificando sus hiperparámetros para encontrar el modelo más eficiente para cada algoritmo.
 * [Churn 2_Evaluación_Entrenamiento.](https://github.com/big-gio/02.Clasif_Despliegue-Bank_Churn/blob/main/Churn_2_Evaluaci%C3%B3n_Entrenamiento.ipynb) En el segundo cuaderno se prueban los diferentes modelos, se calculan sus métricas y se comparan entre sí para seleccionar el modelo óptimo que se utilizará en los nuevos datos que lleguen después. El modelo seleccionado se exporta en un archivo de extensión .pkl.
-* [Churn 3_Despliegue.] Se utiliza el modelo seleccionado para predecir la fuga de nuevos clientes.
+* [Churn 3_Despliegue.](https://github.com/big-gio/02.Clasif_Despliegue-Bank_Churn/blob/main/Churn_3_Despliegue.ipynb) Se utiliza el modelo seleccionado para predecir la fuga de nuevos clientes.
 
 ## Obtención de los datos
 
